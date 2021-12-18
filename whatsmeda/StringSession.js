@@ -20,7 +20,7 @@ class StringSession {
     }
 
     createStringSession(dict) {
-        return 'OWEN;;;' + Buffer.from(JSON.stringify(dict)).toString('base64');
+        return 'MEDA;;;' + Buffer.from(JSON.stringify(dict)).toString('base64');
     }
 }
 
