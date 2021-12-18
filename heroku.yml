@@ -1,5 +1,5 @@
 build:
   docker:
-      worker: /whatsmeda/Dockerfile
+      worker: /Dockerfile
 run:
    worker: npm start
