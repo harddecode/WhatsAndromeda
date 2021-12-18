@@ -1,1 +1,0 @@
-# UPDATİNG README.MD WAİT.
