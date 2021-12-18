@@ -2,7 +2,7 @@
   "name": "WhatsMeda",
   "version": "1.0",
   "description": "WhatsMeda project - a Whatsapp userbot helping to improve your Whatsapp experience.",
-  "main": "./WhatsMeda/bot.js",
+  "main": "./WhatsAndromeda/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
