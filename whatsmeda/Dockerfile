@@ -1,4 +1,4 @@
-FROM harddecode/whatsmeda:latest
+FROM harddecode/WhatsAndromeda:latest
 
 RUN git clone https://github.com/harddecode/WhatsMeda /root/WhatsMeda
 WORKDIR /root/WhatsAndromeda/
