@@ -13,7 +13,7 @@ async function whatsMeda () {
     conn.regenerateQRIntervalMs = 50000;
 
     conn.on('connecting', async () => {
-        console.log(`${chalk.green.bold('Whats')}${chalk.blue.bold('Owen')}
+        console.log(`${chalk.green.bold('Whats')}${chalk.blue.bold('Meda')}
 ${chalk.white.italic('WhatsMeda String Kodu Alıcı')}
 ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
     });
