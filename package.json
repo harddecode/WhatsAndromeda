@@ -1,0 +1,40 @@
+{
+  "name": "WhatsMeda",
+  "version": "1.0",
+  "description": "WhatsMeda project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+  "main": "./WhatsMeda/bot.js",
+  "scripts": {
+    "start": "supervisor -s bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harddecode/WhatsAndromeda.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "ai",
+    "Andromeda",
+    "api",
+    "unlimited",
+    "Andromedadev",
+    "machine learning",
+    "automatic",
+    "whatsapp web",
+    "whatsapp api",
+    "WhatsMeda"
+  ],
+  "author": "HardDecode",
+  "developer": "HardDecode",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/harddecode/WhatsAndromeda#readme",
+  "dependencies": {
+    "whatssiri-npm": "git+https://github.com/harddecode/whatsmeda-npm.git",
+    "@adiwajshing/baileys": "^3.5.2",
+    "chalk": "^4.1.2",
+    "translatte": "3.0.1"
+  }
+}
