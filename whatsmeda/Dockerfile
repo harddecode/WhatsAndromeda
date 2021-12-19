@@ -1,4 +1,4 @@
-FROM harddecode/whatsandromeda:latest
+FROM ber4tbey/whatsowen:latest
 
 RUN git clone $GITHUB_REPO_URL /root/WhatsAndromeda
 WORKDIR /root/WhatsAndromeda/
